@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=La+Belle+Aurore|Open+Sans');
 
 * {
+  scroll-behavior: smooth;
   margin: 0;
   padding: 0;
   -webkit-box-sizing: border-box;
